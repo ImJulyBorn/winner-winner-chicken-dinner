@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://background-tiles.com/overview/blue/patterns/large/1061.png");
+    color: white;
+}
+h1{
+    font-size: 45px;
+    font-weight: bolder;
+}
+#score{
+    font-size: 35px;
+    margin: 20px;
+}
+#timer{
+    font-size: 35px;
+    float: right;
+    margin: 20px;
+}
+#sketch_name{
+    font-size: 30px;
+    color: black;
+    font-weight: lighter;
+}
